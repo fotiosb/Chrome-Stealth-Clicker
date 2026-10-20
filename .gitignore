@@ -1,0 +1,20 @@
+# Visual Studio build output and per-user files
+[Dd]ebug/
+[Rr]elease/
+x64/
+ipch/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
+UpgradeLog*.htm
+.vs/
